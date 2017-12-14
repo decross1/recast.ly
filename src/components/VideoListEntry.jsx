@@ -1,8 +1,8 @@
 let VideoListEntry = (props) => {
 
- let onTitleClick = function(e) {
-   props.handlevideochange(props.video);
- }
+  let onTitleClick = function(e) {
+    props.handlevideochange(props.video);
+  }
   
   
   
